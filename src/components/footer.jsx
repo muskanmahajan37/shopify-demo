@@ -17,8 +17,7 @@ export function Footer() {
         <div className={logos}>
           <Logo />
         </div>
-        <strong>gatsby-starter-shopify</strong> change this by editing{" "}
-        <code>src/components/footer.jsx</code>
+        We love Lamas.
       </div>
       <nav className={links} aria-label="footer">
         <ul className={footerNavList}>
